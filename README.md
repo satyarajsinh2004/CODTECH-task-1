@@ -72,6 +72,13 @@ Add JavaScript for interactivity.
 Testing
 
 Test on multiple devices and browsers.
+
+**OUTPIT** :
+![Screenshot (114)](https://github.com/user-attachments/assets/f0fa5df1-ebca-4ba3-9350-b035beb7fab1)
+![Screenshot (115)](https://github.com/user-attachments/assets/9fcc4e8c-535d-4eac-902b-a089799aaccc)
+![Screenshot (116)](https://github.com/user-attachments/assets/7df86d4b-2b19-4951-bb5a-ecd838feaae5)
+![Screenshot (117)](https://github.com/user-attachments/assets/3a7f7108-43c4-44b6-a190-e73439dff8b9)
+![Screenshot (118)](https://github.com/user-attachments/assets/49f24343-8a13-42bf-a46e-8fe33900aa1f)
 Ensure all links and forms work as expected.
 Deployment
 
